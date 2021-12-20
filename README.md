@@ -15,10 +15,10 @@ Users should be able to
 
 ### Commands to run the program
 
-Adding a book: node app.js add --title="Title" --author="User" --desc="New book"
-Removing a node: node app.js remove --title="Title"
-Reading a book: node app.js read --title="Title"
-Listing a book: node app.js list
+- Adding a book: node app.js add --title="Title" --author="User" --desc="New book"
+- Removing a node: node app.js remove --title="Title"
+- Reading a book: node app.js read --title="Title"
+- Listing a book: node app.js list
 
 Each book has to have
 
